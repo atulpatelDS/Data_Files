@@ -1,4 +1,4 @@
-The Project Gutenberg eBook, Pride and Prejudice, by Jane Austen, Edited
+﻿The Project Gutenberg eBook, Pride and Prejudice, by Jane Austen, Edited
 by R. W. (Robert William) Chapman
 
 
@@ -21,8 +21,6 @@ Editor: R. W. (Robert William) Chapman
 Release Date: May 9, 2013  [eBook #42671]
 
 Language: English
-
-Character set encoding: ISO-646-US (US-ASCII)
 
 
 ***START OF THE PROJECT GUTENBERG EBOOK PRIDE AND PREJUDICE***
@@ -1086,7 +1084,7 @@ Jane, make haste and tell us; make haste, my love."
 
      "If you are not so compassionate as to dine to-day with Louisa and
      me, we shall be in danger of hating each other for the rest of our
-     lives, for a whole day's tete-a-tete between two women can never
+     lives, for a whole day's tête-à-tête between two women can never
      end without a quarrel. Come as soon as you can on the receipt of
      this. My brother and the gentlemen are to dine with the officers.
      Yours ever,
@@ -2557,7 +2555,7 @@ His plan did not vary on seeing them.--Miss Bennet's lovely face
 confirmed his views, and established all his strictest notions of what
 was due to seniority; and for the first evening _she_ was his settled
 choice. The next morning, however, made an alteration; for in a quarter
-of an hour's tete-a-tete with Mrs. Bennet before breakfast, a
+of an hour's tête-à-tête with Mrs. Bennet before breakfast, a
 conversation beginning with his parsonage-house, and leading naturally
 to the avowal of his hopes, that a mistress for it might be found at
 Longbourn, produced from her, amid very complaisant smiles and general
@@ -6256,7 +6254,7 @@ glancing over it, said, in a colder voice,
 
 A short dialogue on the subject of the country ensued, on either side
 calm and concise--and soon put an end to by the entrance of Charlotte
-and her sister, just returned from their walk. The tete-a-tete surprised
+and her sister, just returned from their walk. The tête-à-tête surprised
 them. Mr. Darcy related the mistake which had occasioned his intruding
 on Miss Bennet, and after sitting a few minutes longer without saying
 much to any body, went away.
@@ -8748,7 +8746,7 @@ have been said, and silence was very awkward. She wanted to talk, but
 there seemed an embargo on every subject. At last she recollected that
 she had been travelling, and they talked of Matlock and Dove Dale with
 great perseverance. Yet time and her aunt moved slowly--and her patience
-and her ideas were nearly worn out before the tete-a-tete was over. On
+and her ideas were nearly worn out before the tête-à-tête was over. On
 Mr. and Mrs. Gardiner's coming up, they were all pressed to go into the
 house and take some refreshment; but this was declined, and they parted
 on each side with the utmost politeness. Mr. Darcy handed the ladies
@@ -13359,7 +13357,7 @@ been left as printed.
 ***END OF THE PROJECT GUTENBERG EBOOK PRIDE AND PREJUDICE***
 
 
-******* This file should be named 42671.txt or 42671.zip *******
+******* This file should be named 42671-8.txt or 42671-8.zip *******
 
 
 This and all associated files of various formats will be found in:
